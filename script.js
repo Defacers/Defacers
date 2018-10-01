@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am ./Yuzha.", "I Deface Your Websites.", "I Live in Isekai.", "I am Member of [For Waifus Crew]", "Thanks To All Member of My Team", "I Am Lolicon!", "Loli Daisuki!", "I am Loli Hunter!"],    /* You can change the home section typing text from
+            strings: ["I am ./Yuzha.", "Sorry For Your Site.", "I Life in Isekai.", "Member of [For Waifus Crew]", "Thanks To My Team", "I Am Lolicon!", "Loli Daisuki!", "I am Loli Hunter!"],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
